@@ -5,7 +5,6 @@ exename=$2
 shift 2
 rest=$@
 cdir=$(pwd)
-errid=0;
 cd
 cd $dirname
 make
