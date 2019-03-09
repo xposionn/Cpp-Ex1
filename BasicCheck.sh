@@ -1,4 +1,6 @@
 #!/bin/bash
+#This is Assignment 1 (Bash) of course Memory Structure & C++ in Ariel University.
+#Code by: Liad Cohen & Timor Sharabi.
 
 dirname=$1
 exename=$2
